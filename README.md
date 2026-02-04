@@ -67,19 +67,6 @@ All actions are available via buttons **and** keyboard shortcuts:
 
 ---
 
-## What this script intentionally does NOT do
-
-To remain reliable and account-safe, this userscript does **not**:
-
-- Automatically select Google Scholar folders / labels
-- Bypass Scholar’s “Save to library” dialog
-- Perform background or bulk saves
-- Use private or undocumented Google APIs
-
-Google Scholar explicitly requires **human interaction** for these actions.
-
----
-
 ## Installation
 
 1. Install **Tampermonkey** (Chrome, Edge, Firefox, Brave)
