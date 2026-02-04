@@ -109,8 +109,7 @@ https://scholar.google.com
 ## Example input
 
 https://doi.org/10.1177/27324745251404039
-Bayesian evidence synthesis replication studies
-Meta-analysis of the replication crisis in psychology
+Strategies for Facilitating Transportation to Community-Based Work Experiences
 
 
 ---
