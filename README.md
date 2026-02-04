@@ -70,10 +70,8 @@ All actions are available via buttons **and** keyboard shortcuts:
 ## Installation
 
 1. Install **Tampermonkey** (Chrome, Edge, Firefox, Brave)
-2. Create a new userscript
-3. Paste the contents of:
-google-scholar-batch-search.user.js
-
+2. Create a new userscript and delete the default code
+3. Coy and paste the code in google-scholar-batch-search.user.js into the userscript
 4. Save and enable the script
 5. Open:
 https://scholar.google.com
