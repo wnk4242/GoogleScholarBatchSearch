@@ -93,23 +93,6 @@ https://scholar.google.com
 
 ---
 
-## Example input
-
-https://doi.org/10.1177/27324745251404039
-Strategies for Facilitating Transportation to Community-Based Work Experiences
-
-
----
-
-## Design philosophy
-
-- **Reliability over clever hacks**
-- **Human-in-the-loop by design**
-- **Respect Scholar’s interaction boundaries**
-- Optimized for real research workflows, not demos
-
----
-
 ## Who this tool is for
 
 - Researchers managing long reference lists
